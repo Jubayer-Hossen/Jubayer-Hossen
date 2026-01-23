@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Student at Independent University, Bangladesh<br>      Major: Computer Science and Engineering<br>      Minor: Robotics and Intelligent Machine<br>🧠 I'm especially interested in Artificial Intelligence, Autonomous Technologies, and Game development<br>💭 I'm always learning and looking for opportunities to grow and collaborate
+🔭 Student at Rhine-Waal University of Applied Sciences<br>      Major: Infotronic Systems Engineering<br>      🧠 I'm especially interested in Artificial Intelligence, Autonomous Technologies, and Game development<br>💭 I'm always learning and looking for opportunities to grow and collaborate
 
 
 ## 🌐 Socials:
